@@ -44,3 +44,7 @@ python fibonacci_generator.py
 ---
 
 *Author:* [@g3raldatsc](https://github.com/g3raldatsc)
+
+<p align="center">
+  <img src="https://media.tenor.com/xuSNPOQbGLwAAAAm/hal4822-yui-hirasawa.webp" width="200" alt="Anime Gif">
+</p>
